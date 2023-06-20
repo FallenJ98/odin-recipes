@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+    border: solid firebrick 1px;
+    background-color: gray;
+}
+
+h1 {
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    background-color: aqua;
+
+}
+
+body img {
+    height: 250px;
+    padding: 5px;
+    display: inline-block;
+}
+
+li a {
+    display:inline-block;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
